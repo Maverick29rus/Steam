@@ -1,0 +1,6 @@
+pandas
+requests
+pycbrf
+beautifulsoup4
+lxml
+jupyter
